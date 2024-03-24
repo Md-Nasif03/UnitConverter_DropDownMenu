@@ -1,8 +1,8 @@
 👋 Hi, I’m MD NASIF <br>
 👀 I’m interested in Android development <br>
--🌱 I’m currently learning Android development using Jetpack compose in Kotlin 
--📫 Gmail: mdnasif03@gmail.com
-😄 Pronouns: he/him
+🌱 I’m currently learning Android development using Jetpack compose in Kotlin <br>
+📫 Gmail: mdnasif03@gmail.com <br>
+😄 Pronouns: he/him<br>
 #Unit Converter App
 This Android application is a unit converter that allows users to convert between different units of measurement. 
 The app has a simple and intuitive user interface with two dropdown menus for selecting the input and output units. 
