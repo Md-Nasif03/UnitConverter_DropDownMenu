@@ -6,7 +6,7 @@
 #Unit Converter App<br>
 This Android application is a unit converter that allows users to convert between different units of measurement. 
 The app has a simple and intuitive user interface with two dropdown menus for selecting the input and output units. 
-The user can enter a value in the input field and the app will automatically calculate and display the converted value.
+The user can enter a value in the input field and the app will automatically calculate and display the converted value.<br>
 Features:<br>
 Convert between different units of measurement, such as millimeters, centimeters, meters, and kilometers.<br>
 User-friendly interface with dropdown menus for selecting input and output units.<br>
